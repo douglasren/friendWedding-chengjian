@@ -1,0 +1,23 @@
+﻿.col1_1, .col1_2, .col2_1, .col2_2, .col_rm, .cols { float:left;}
+
+.col1_1{ 
+	width:312px;
+	padding-right: 59px;
+}
+.col1_2{
+	width: 470px;
+}
+.col2_1{ 
+	width:420px;
+	padding-right: 46px;
+}
+.col2_2{
+	width: 368px;
+}
+.col_rm{
+	width: 880px;	
+}
+.cols{
+	width: 833px;	
+}
+
